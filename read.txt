@@ -1,0 +1,6 @@
+Hi this is computer vision project in which i am tracking the yellow colour object in realtime using HSV(Hue saturation Value)
+method.
+In the project i have used the module, OpenCv, Numpy, Pillow
+Opencv is for capturing the data from the camera 
+Numpy is doing the mathematical compution like making of boundingbox, frame tracking
+and Pillow for capturing the value of the required color range needed for the project. 
